@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/kclk_solution.iml" filepath="$PROJECT_DIR$/.idea/kclk_solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution.iml" filepath="$PROJECT_DIR$/solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/solution.main.iml" filepath="$PROJECT_DIR$/.idea/modules/solution.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/solution.test.iml" filepath="$PROJECT_DIR$/.idea/modules/solution.test.iml" />
+    </modules>
+  </component>
+</project>
